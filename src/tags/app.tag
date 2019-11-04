@@ -1,7 +1,12 @@
 <app>
   <h1>{ title }</h1>
 
+  <ul>
+    <li>aaaaaaaaaaaa</li>
+  </ul>
+
   <script>
-    import riot from 'riot'
+    this.title = 'Hello, riot with parcel!';
   </script>
 </app>
+
