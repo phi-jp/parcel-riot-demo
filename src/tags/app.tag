@@ -8,6 +8,7 @@
 
   <script>
     this.title = 'Hello, riot with parcel!';
+    console.log(Firestore);
   </script>
 </app>
 
