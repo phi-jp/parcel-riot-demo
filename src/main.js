@@ -4,7 +4,7 @@ import './tags/*.tag'
 import './tags/**/*.tag'
 
 // global に展開(他で import する必要がなくなる)
-window.Firestore = Firerest;
+global.Firestore = Firerest;
 
 // // package.json 読めるかの実験
 const config = require('../package.json');
