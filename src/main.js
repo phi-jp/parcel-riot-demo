@@ -1,6 +1,8 @@
 import riot from 'riot'
-import './tags/app.tag'
+import firerest from 'firerest'
+import './tags/*.tag'
+import './tags/**/*.tag'
 
-riot.mount('app');
+riot.mount('*');
 
 

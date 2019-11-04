@@ -2,7 +2,8 @@
   <h1>{ title }</h1>
 
   <ul>
-    <li>aaaaaaaaaaaa</li>
+    <li>bbbbbbbbb</li>
+    <item each='{item in [1, 2, 3, 4]}' item='{item}'></item>
   </ul>
 
   <script>
