@@ -17,3 +17,7 @@
 バックエンドとの連携例
 
 - https://qiita.com/tomon9086/items/9e29908311d067856c7a
+
+Node Express で使う方法 & オプション一覧
+
+- https://parceljs.org/api.html#middleware
