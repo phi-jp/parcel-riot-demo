@@ -11,4 +11,3 @@
     console.log(Firestore);
   </script>
 </app>
-
